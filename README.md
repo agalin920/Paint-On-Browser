@@ -1,4 +1,4 @@
-# Paint-On-Browser
+# paint-web-app
 A simple paint app on your browser.
 
 Use hex codes to change color of brush
